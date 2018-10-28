@@ -1,130 +1,83 @@
 {
   "basics": {
     "name": "Aria",
-    "label": "Programmer",
-    "picture": "",
+    "label": "UI/UX and Front-end Developer",
     "email": "aria@devsociety.ph",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "+63 917 903 4191",
+    "website": "lolihack.xyz",
+    "summary": "A tech nomad, critical designer, and artful developer. She is a front-end developer, UI/UX specialist, and also a graphic designer. A regular in hackathons, she enjoys solving everyday problems with solutions that focus on efficiency and sustainability.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Molino",
+      "postalCode": "1403",
+      "city": "Bacoor",
+      "countryCode": "PH",
+      "region": "4-A CALABARZON"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "url": "https://twitter.com/f_xyue"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
-  ],
-  "volunteer": [
+      "startDate": "2018-09-17",
+      "position": "Jr. Software Engineer",
+      "company": "Thinking Pandas",
+      "website": "https://www.thinkingpandas.com",
+      "summary": "Thinking Pandas is a software studio specializing in designing and developing world-class mobile and web applications for your business."
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "startDate": "2018-07-01",
+      "endDate": "2018-10-15",
+      "position": "Jr. UI/UX Developer",
+      "company": "Incubix Technologies Inc.",
+      "website": "http://www.incubixtech.com",
+      "summary": "Incubix Technologies is a venture builder. A tech studio. A start-up that builds start-ups on a global level. It is the new paradigm in the start-up ecosystem - a first of its kind in the field of technology innovators and disruptors."
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "institution": "Ateneo de Manila",
+      "startDate": "2016-06-01",
+      "endDate": "2016-12-20",
+      "area": "STEM",
+      "studyType": "Senior High School"
     }
   ],
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
+      "level": "Intermediate",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "Bootstrap",
+        "SCSS",
+        "JQuery",
+        "Laravel"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "UI Design",
+      "level": "Intermediate",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Photoshop",
+        "Illustrator",
+        "XD"
       ]
-    }
-  ],
-  "languages": [
+    },
     {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
+      "name": "Javascript",
+      "level": "Basic",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "React",
+        "Vue",
+        "Node",
+        "MongoDB"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
