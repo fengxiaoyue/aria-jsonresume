@@ -7,11 +7,7 @@
     "website": "lolihack.xyz",
     "summary": "A tech nomad, critical designer, and artful developer. She is a front-end developer, UI/UX specialist, and also a graphic designer. A regular in hackathons, she enjoys solving everyday problems with solutions that focus on efficiency and sustainability.",
     "location": {
-      "address": "Molino",
-      "postalCode": "1403",
-      "city": "Bacoor",
-      "countryCode": "PH",
-      "region": "4-A CALABARZON"
+      "countryCode": "PH"
     },
     "profiles": [
       {
@@ -48,36 +44,47 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Intermediate",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Bootstrap",
-        "SCSS",
-        "JQuery",
-        "Laravel"
-      ]
-    },
-    {
       "name": "UI Design",
       "level": "Intermediate",
-      "keywords": [
-        "Photoshop",
-        "Illustrator",
-        "XD"
-      ]
+      "keywords": ["Photoshop", "Illustrator", "XD"]
+    },
+    {
+      "name": "UI Frameworks",
+      "level": "Intermediate",
+      "keywords": ["Bootstrap", "Material", "Semantic"]
     },
     {
       "name": "Javascript",
+      "level": "Intermediate",
+      "keywords": ["React", "Vue", "Node", "MongoDB"]
+    },
+    {
+      "name": "PHP",
       "level": "Basic",
-      "keywords": [
-        "React",
-        "Vue",
-        "Node",
-        "MongoDB"
-      ]
+      "keywords": ["Laravel", "mySQL"]
+    },
+    {
+      "name": "DevOps",
+      "level": "Basic",
+      "keywords": ["Git", "Ubuntu", "Nginx", "Let's Encrypt", "DigitalOcean"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Filipino",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Basic"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
     }
   ]
 }
