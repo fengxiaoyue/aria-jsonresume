@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Aria Fong",
-    "label": "ui/ux dev infosec",
+    "label": "ui/ux devops infosec",
     "email": "hi@fengxiaoyue.dev",
     "phone": "+63 917 903 4191",
     "website": "fengxiaoyue.dev",
@@ -55,5 +55,8 @@
       "language": "Japanese",
       "fluency": "Basic"
     }
-  ]
+  ],
+  "meta": {
+    "theme": "stackoverflow"
+  }
 }
