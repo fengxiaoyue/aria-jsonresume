@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Aria",
-    "label": "UI/UX and Front-end Developer",
-    "email": "aria@devsociety.ph",
+    "name": "Aria Fong",
+    "label": "ui/ux dev infosec",
+    "email": "hi@fengxiaoyue.dev",
     "phone": "+63 917 903 4191",
-    "website": "lolihack.xyz",
-    "summary": "A tech nomad, critical designer, and artful developer. She is a front-end developer, UI/UX specialist, and also a graphic designer. A regular in hackathons, she enjoys solving everyday problems with solutions that focus on efficiency and sustainability.",
+    "website": "fengxiaoyue.dev",
+    "summary": "A massive nerd.",
     "location": {
       "countryCode": "PH"
     },
@@ -19,7 +19,7 @@
   "work": [
     {
       "startDate": "2018-09-17",
-      "position": "Jr. Software Engineer",
+      "position": "Software Engineer",
       "company": "Thinking Pandas",
       "website": "https://www.thinkingpandas.com",
       "summary": "Thinking Pandas is a software studio specializing in designing and developing world-class mobile and web applications for your business."
@@ -42,33 +42,6 @@
       "studyType": "Senior High School"
     }
   ],
-  "skills": [
-    {
-      "name": "UI Design",
-      "level": "Intermediate",
-      "keywords": ["Photoshop", "Illustrator", "XD"]
-    },
-    {
-      "name": "UI Frameworks",
-      "level": "Intermediate",
-      "keywords": ["Bootstrap", "Material", "Semantic"]
-    },
-    {
-      "name": "Javascript",
-      "level": "Intermediate",
-      "keywords": ["React", "Vue", "Node", "MongoDB"]
-    },
-    {
-      "name": "PHP",
-      "level": "Basic",
-      "keywords": ["Laravel", "mySQL"]
-    },
-    {
-      "name": "DevOps",
-      "level": "Basic",
-      "keywords": ["Git", "Ubuntu", "Nginx", "Let's Encrypt", "DigitalOcean"]
-    }
-  ],
   "languages": [
     {
       "language": "English",
@@ -80,10 +53,6 @@
     },
     {
       "language": "Japanese",
-      "fluency": "Basic"
-    },
-    {
-      "language": "French",
       "fluency": "Basic"
     }
   ]
